@@ -42,30 +42,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrealsl)  
 [![Blog](https://img.shields.io/badge/-TI%20sem%20curso-9146FF?style=flat-square&logo=wordpress&logoColor=white)](https://tisemcurso.wordpress.com)
 
----
 
-## 🧭 Índice e Vitrine dos meus Repositórios
-
-> Organização dos meus principais projetos e estudos. Cada link leva direto ao repositório correspondente:
-
-### 🎓 Projetos da Faculdade
-📁 **[Projetos_BacharelEngSoftware](https://github.com/AndreLuisDev/Projetos_BacharelEngSoftware)**  
-🧪 Projetos desenvolvidos durante o Bacharelado em Engenharia de Software, com foco em disciplinas práticas e teóricas da graduação.
-
----
-
-### 💻 Projetos Pessoais de Programação
-📁 **[Projetos-Programacao](https://github.com/AndreLuisDev/Projetos-Programacao)**  
-🧰 Repositório com projetos diversos de prática em programação, automações simples, desafios de lógica e scripts pessoais.
-
----
-
-### 📚 Estudos e Resumos em Tecnologia
-📁 **[03_EstudosResumos_Tecnologia_TI](https://github.com/AndreLuisDev/03_EstudosResumos_Tecnologia_TI)**  
-📝 Resumos teóricos, anotações, mapas mentais e referências sobre fundamentos de tecnologia, Git, qualidade de software e muito mais.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
-</p>
