@@ -14,7 +14,6 @@
 - 🧠 Atualmente aprendendo: **Python, Git, Testes Automatizados e Scripts**
 - ✍️ Documentando minha trajetória no blog: [TI sem curso](https://tisemcurso.wordpress.com/)
 - 💬 Gosto de trocar ideias sobre **lógica, transição de carreira e devs iniciantes**
-- 📫 Contato: [alslandrelima@gmail.com](mailto:alslandrelima@gmail.com)
 
 ---
 
